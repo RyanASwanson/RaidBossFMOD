@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{09a0a36d-029f-43f0-beca-388b0cc16595}">
+		<property name="assetPath">
+			<value>foley-vegetation-shrub-small-leaves-rustle-soft-05.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.2859999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2d7fef7a-a997-463e-afd6-6a3f5b4d3543}</destination>
+		</relationship>
+	</object>
+</objects>

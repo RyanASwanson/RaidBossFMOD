@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{af31ddac-6a0d-4e59-a569-f485e1ddf40c}">
+		<property name="assetPath">
+			<value>ui-medieval-notification-popup-03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.438</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2d7fef7a-a997-463e-afd6-6a3f5b4d3543}</destination>
+		</relationship>
+	</object>
+</objects>

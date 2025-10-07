@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c1436842-c817-4d50-b796-b01997f0813c}">
+		<property name="assetPath">
+			<value>impact-stone-rubble-hard-02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3289791666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2d7fef7a-a997-463e-afd6-6a3f5b4d3543}</destination>
+		</relationship>
+	</object>
+</objects>

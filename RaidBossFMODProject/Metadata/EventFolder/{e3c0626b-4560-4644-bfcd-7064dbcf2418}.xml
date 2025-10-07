@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{e3c0626b-4560-4644-bfcd-7064dbcf2418}">
+		<property name="name">
+			<value>Frostbite</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c815ecae-1b75-4ad3-a478-571197b78d56}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{f1b2ceb3-f8fa-401b-9990-7f4825f53304}">
+		<property name="name">
+			<value>LavaBlast</value>
+		</property>
+		<relationship name="folder">
+			<destination>{517aafdd-f2e1-4852-8674-cd9dd7310526}</destination>
+		</relationship>
+	</object>
+</objects>

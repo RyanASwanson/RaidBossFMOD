@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{616083c7-dd06-47a5-bf34-292a85668c91}">
+		<property name="assetPath">
+			<value>ui-notification-fast-percussive-01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.22197916666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2d7fef7a-a997-463e-afd6-6a3f5b4d3543}</destination>
+		</relationship>
+	</object>
+</objects>

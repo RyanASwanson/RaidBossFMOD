@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{1e60ff48-6b13-4bb6-b8e9-f324b5ecf798}">
+		<property name="name">
+			<value>MagmaWave</value>
+		</property>
+		<relationship name="folder">
+			<destination>{517aafdd-f2e1-4852-8674-cd9dd7310526}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{5ee4d487-328e-40ae-a4c9-25baa9a15b6c}">
+		<property name="assetPath">
+			<value>atmo-wind-howling-wind-rumbling-01.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>165.42297916666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2d7fef7a-a997-463e-afd6-6a3f5b4d3543}</destination>
+		</relationship>
+	</object>
+</objects>

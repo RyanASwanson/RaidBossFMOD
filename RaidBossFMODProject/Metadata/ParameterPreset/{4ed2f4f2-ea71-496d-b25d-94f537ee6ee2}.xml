@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{4ed2f4f2-ea71-496d-b25d-94f537ee6ee2}">
+		<property name="name">
+			<value>PitchIncreases</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9ecfa832-7406-4da5-8d1d-821ec5145be3}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{0192c64c-eb9e-4a73-8d73-800a3ee6691f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{0192c64c-eb9e-4a73-8d73-800a3ee6691f}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

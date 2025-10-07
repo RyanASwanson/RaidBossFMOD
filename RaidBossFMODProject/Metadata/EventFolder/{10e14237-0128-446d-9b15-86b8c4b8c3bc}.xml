@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{10e14237-0128-446d-9b15-86b8c4b8c3bc}">
+		<property name="name">
+			<value>UnstablePrecipice</value>
+		</property>
+		<relationship name="folder">
+			<destination>{978fb2f0-791f-44b0-8aa0-84301be230a4}</destination>
+		</relationship>
+	</object>
+</objects>
